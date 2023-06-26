@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+
 hola xd
 Hola xd xd
-=======
-hola 
->>>>>>> Rama
+
